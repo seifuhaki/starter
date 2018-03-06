@@ -1,2 +1,1 @@
-# starter
-a starter coder
+#include<stdio.h>
